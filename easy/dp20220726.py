@@ -12,6 +12,9 @@ def fn(l):
     -----------
     l:int list
 
+    Solution:
+    ---------
+
     Using asumption of you can get it by:
     1. product of bigger two negatives times the bigger positive number
     2. product of 3 biggers positives numbers
